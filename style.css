@@ -26,6 +26,13 @@ main {
   text-align: center;
 }
 
+.main__image {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 250px; 
+}
+
 .main__item {
   margin-top: 20px;
 }
